@@ -4,11 +4,9 @@ This is my first repository launching my career as an IT Data Analyst. Starting 
 <h3>About MySelf</h3>
 <h4><b><u>Updated Version: 2024-01-05</u></b></h4>
 
-<p>
-<style>
-    .space{margin-bottom: 10px}
-</style>
+<link rel="stylesheet" href="Margin.css">
 
+<p>
     <ul>
     <li class = "space"><b>NAME</b>: Esther Obieme</li>
     <li class = "space"><b>EDUCATION</b>: IT Database Administration</li>
